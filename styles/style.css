@@ -81,7 +81,7 @@
 
 .two-columns {
   display: flex;
-  justify-content: space-between;     
+  justify-content: space-between;
   width: 80%;
 }
 
@@ -95,7 +95,7 @@
 }
 
 .two-columns__main-text {
-  width: 80%; 
+  width: 80%;
   min-width: 784px;
   line-height: 34px;
   font-size: 24px;
@@ -292,7 +292,6 @@
     list-style: none;
     padding: 0;
     margin: 0;
-    color: white;
   }
     
   .footer__column_content_copyright {
