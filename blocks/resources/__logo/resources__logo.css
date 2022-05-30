@@ -5,6 +5,8 @@
 	transition-property: opacity;
 	transition-duration: .5s;
 	transition-timing-function: ease;
+	margin: 0;
+	padding: 0;
 }
 
 .resources__logo:hover {
